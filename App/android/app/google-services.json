@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "729621830311",
+    "firebase_url": "https://vip-billionaires-c07df.firebaseio.com",
+    "project_id": "vip-billionaires-c07df",
+    "storage_bucket": "vip-billionaires-c07df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729621830311:android:ccb45b3523920f37fd9982",
+        "android_client_info": {
+          "package_name": "com.ninasoft.vipbillionaires"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729621830311-bv2fvraldhhflppl37p4g1qaqjgpad8d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ninasoft.vipbillionaires",
+            "certificate_hash": "6499ab7d793a4bb76c4ee178b258417620b08763"
+          }
+        },
+        {
+          "client_id": "729621830311-fgvjcd1ujf7agfmrud5tahgnak6m4ogg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3LrCugVtddVF2z54cHzkmIcsmkdUiLnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729621830311-fgvjcd1ujf7agfmrud5tahgnak6m4ogg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "729621830311-vujffh5hujem1431a38jhapr74ivri4b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ninasoft.vipbillionaires",
+                "app_store_id": "1076103571"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

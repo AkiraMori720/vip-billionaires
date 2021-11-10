@@ -1,0 +1,87 @@
+// Here you can add other styles
+.text-right{
+  text-align: right;
+}
+.input-row{
+  padding-bottom: 12px;
+  svg{
+    color: #808080 !important;
+  }
+  .size-container {
+    margin: 2px 8px;
+    padding: 16px;
+    background-color: #f2f2f2;
+    border-radius: 8px;
+    display: inline-flex;
+    position: relative;
+    .size-text {
+      color: black;
+    }
+    .close-icon{
+      width: 24px;
+      height: 24px;
+      position: absolute;
+      top: -10px;
+      right: -10px;
+      padding: 4px;
+      background-color: #808080;
+      cursor: pointer;
+      color: white !important;
+      border-radius: 16px;
+    }
+  }
+  .color-container {
+    margin: 2px 8px;
+    padding: 16px;
+    background-color: #f2f2f2;
+    border-radius: 8px;
+    display: inline-flex;
+    position: relative;
+    flex-direction: column;
+    text-align: center;
+    width: 112px;
+    .color-image {
+      width: 80px;
+      height: 80px;
+    }
+    .color-text {
+      margin-top: 4px;
+      color: black;
+    }
+    .close-icon{
+      width: 24px;
+      height: 24px;
+      position: absolute;
+      top: -10px;
+      right: -10px;
+      padding: 4px;
+      background-color: #808080;
+      cursor: pointer;
+      color: white !important;
+      border-radius: 16px;
+    }
+  }
+}
+
+.cs-date-picker{
+  display: block;
+  width: 100%;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  .react-date-picker__wrapper{
+    padding: 0.375rem 0.75rem;
+    color: rgba(44, 56, 74, 0.95);
+    background-clip: padding-box;
+    border: 1px solid #b1b7c1;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border-radius: 0.25rem;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  }
+}
+
+.shipping_label{
+  width: 140px;
+}

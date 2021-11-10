@@ -1,0 +1,13 @@
+diff --git a/node_modules/react-native-nested-scroll-view/lib/NestedScrollView.js b/node_modules/react-native-nested-scroll-view/lib/NestedScrollView.js
+index 0481a4f..eab95fe 100644
+--- a/node_modules/react-native-nested-scroll-view/lib/NestedScrollView.js
++++ b/node_modules/react-native-nested-scroll-view/lib/NestedScrollView.js
+@@ -22,7 +22,7 @@ const {
+   requireNativeComponent,
+ } = ReactNative;
+ 
+-const AnimatedImplementation = require('react-native/Libraries/Animated/src/AnimatedImplementation');
++const AnimatedImplementation = require('react-native/Libraries/Animated/AnimatedImplementation');
+ const ScrollResponder = require('react-native/Libraries/Components/ScrollResponder');
+ const ScrollViewStickyHeader = require('react-native/Libraries/Components/ScrollView/ScrollViewStickyHeader');
+ 
